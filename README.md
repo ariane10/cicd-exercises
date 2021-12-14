@@ -1,7 +1,6 @@
 ## Contenido del hw-05
 
 * Dockerfile
-* .dockerignore
 * deployment.yaml
 * service.yaml
 * Jenkinsfile
